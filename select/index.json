@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "深海の孤独",
+  "base_artist": "桑島 法子",
+  "createdAt": "2026-03-25T03:50:18.462515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "深海の孤独",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/01_深海の孤独_GUNDAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海の孤独",
+      "artist": "桑島法子",
+      "has_synced": false,
+      "path": "select/pl_01_深海の孤独_桑島法子.txt"
+    }
+  ]
+}
